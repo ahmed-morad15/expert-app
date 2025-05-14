@@ -35,4 +35,4 @@ This project is a Diabetes Expert System built using Streamlit and CLIPS.
 
 ## Author
 
-Developed by \[Ahme Morad]
+Developed by \[Ahmed Morad]
