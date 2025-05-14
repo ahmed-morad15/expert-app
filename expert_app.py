@@ -1,5 +1,6 @@
 import streamlit as st
 import clips
+st.set_page_config(page_title="Diabetes Expert System")
 
 def run_expert_system(age, bmi, glucose, hypertension, smoking):
     env = clips.Environment()
